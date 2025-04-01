@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things!
+
+
+
 <!--
 **janmayjp/janmayjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
