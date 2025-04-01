@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things!
+I'm a Software Developer and tech enthusiast passionate about computers, technology and learning new things!
 
 
 
